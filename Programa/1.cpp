@@ -3,8 +3,9 @@
 
 using namespace std;
 
-//Calcula los numeros entre un rango comprendido
+//Calcula los numeros entre un rango comprendido//
 main () {
+cout<<“Modificado”;
 	int n1, n2, aux;
 	int f=0, g=0;
 	do{
